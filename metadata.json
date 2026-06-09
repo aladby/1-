@@ -1,0 +1,6 @@
+{
+  "name": "طلبات إكسبريس",
+  "description": "تطبيق توصيل متكامل واحترافي للمطاعم والمتاجر مع تتبع مباشر للطلبات والدفع الإلكتروني المبتكر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
